@@ -1,0 +1,84 @@
+{
+  "metainfo": {
+    "dataset_type": "TextDetDataset",
+    "task_name": "textdet",
+    "category": [
+      {
+        "id": 0,
+        "name": "text"
+      }
+    ]
+  },
+  "data_list": [
+    {
+      "img_path": "ins1\\IMG_3915.jpg",
+      "height": 600,
+      "width": 800,
+      "instances": [
+        {
+          "bbox": [
+            1099,
+            4016,
+            1168,
+            4032
+          ],
+          "bbox_label": 0,
+          "polygon": [
+            1099,
+            4016,
+            1168,
+            4016,
+            1168,
+            4032,
+            1099,
+            4032
+          ],
+          "text": "mmocr",
+          "ignore": false
+        },
+        {
+          "bbox": [
+            2928,
+            3770,
+            3000,
+            3795
+          ],
+          "bbox_label": 0,
+          "polygon": [
+            2928,
+            3770,
+            3000,
+            3770,
+            3000,
+            3795,
+            2928,
+            3795
+          ],
+          "text": "mmocr",
+          "ignore": false
+        },
+        {
+          "bbox": [
+            508,
+            2550,
+            744,
+            2681
+          ],
+          "bbox_label": 0,
+          "polygon": [
+            508,
+            2550,
+            744,
+            2550,
+            744,
+            2681,
+            508,
+            2681
+          ],
+          "text": "mmocr",
+          "ignore": false
+        }
+      ]
+    }
+  ]
+}

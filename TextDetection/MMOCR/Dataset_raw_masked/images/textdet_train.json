@@ -1,0 +1,31 @@
+[
+    {
+        "file_name": "Dataset_raw_masked/images/ins1/IMG_3915.jpg",
+        "annotations": [
+            {
+                "bbox": [
+                    1099,
+                    4016,
+                    69,
+                    16
+                ]
+            },
+            {
+                "bbox": [
+                    2928,
+                    3770,
+                    72,
+                    25
+                ]
+            },
+            {
+                "bbox": [
+                    508,
+                    2550,
+                    236,
+                    131
+                ]
+            }
+        ]
+    }
+]
